@@ -5,6 +5,7 @@ Teste - Brain Agriculture
 # INSTALAÇÃO:
 
 node 16
+
 yarn install
 
 # EXECUÇÃO:

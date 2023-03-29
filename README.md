@@ -4,11 +4,12 @@ Teste - Brain Agriculture
 
 # INSTALAÇÃO:
 
+node 16
 yarn install
 
 # EXECUÇÃO:
 
-npm start
+npm start | yarn start
 
 # TESTE:
 

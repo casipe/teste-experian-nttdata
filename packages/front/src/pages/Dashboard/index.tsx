@@ -110,7 +110,7 @@ export const calculateTotalBySolo = (datasStore: IRuralProducerDatas[]) => {
 };
 
 const CountCard = ({ text, count }: { text: string; count: string | number }) => (
-    <Grid item md={4} sm={10} marginTop={6} marginLeft={5}>
+    <Grid className="CardCount" item md={4} sm={10} marginTop={6} marginLeft={5}>
         <Box
             sx={{
                 minWidth: 340,

@@ -4,7 +4,7 @@ Teste - Brain Agriculture
 
 # INSTALAÇÃO:
 
-node 16
+node 16>
 
 yarn install
 

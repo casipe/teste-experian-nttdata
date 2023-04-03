@@ -10,9 +10,10 @@ yarn install
 
 # EXECUÇÃO:
 
-npm start | yarn start
+npm start ou yarn start
 
 # TESTE:
 
 cd packages/front
+
 npm run test

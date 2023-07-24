@@ -34,6 +34,7 @@
         "webpack": "^5.76.3"
     },
     "devDependencies": {
+        "@types/node": "^20.4.4",
         "@types/styled-components": "^5.1.26",
         "lerna": "^6.6.1",
         "typescript": "^5.0.2",

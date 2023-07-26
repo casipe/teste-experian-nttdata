@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
   * {
@@ -19,6 +19,10 @@ export default createGlobalStyle`
     z-index: 1200 !important;
   }
 
+  .ModalDialog .MuiPaper-root{
+    max-width: 630px !important;
+  }
+
   @media (max-width: 640px) {
     .MuiTextField-root, .MuiFormControl-root, .MuiDialog-container {
       width: 90% !important;
@@ -33,4 +37,4 @@ export default createGlobalStyle`
       width: 85% !important;
     }
   }
-`
+`;
